@@ -1,5 +1,21 @@
+@import url("https://www.dafontfree.net/embed/Y29yYmVsLXJlZ3VsYXImZGF0YS8xMy9jLzY0Njg2L0NPUkJFTC5UVEY");
+@import url("https://fonts.googleapis.com/css2?family=Alice&family=Cantarell:ital,wght@0,400;0,700;1,400&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus,
+.navbar-toggler {
+    outline: none !important;
+    box-shadow: none !important;
+    border: transparent !important;
+}
+
 .App {
   text-align: center;
+  font-family: 'corbel-regular', sans-serif;
 }
 
 .App-logo {
